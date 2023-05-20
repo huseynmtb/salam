@@ -1,0 +1,201 @@
+.container1{
+    height: 200px;
+    width: 100%;
+    background-color: deeppink;
+    padding-top: 30px;
+}
+.container1 h1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container1 p{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container2{
+    height: 900px;
+    background-color: whitesmoke;
+    width: 100%;
+    padding-top: 40px;
+}
+.container2 h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container2 p{
+    text-align: center;
+    color: rgb(88, 88, 88);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.photo1 img{
+    height: 350px;
+    width: 350px;
+}
+.photo2 img{
+    height: 350px;
+    width: 350px;
+}
+.photo3 img{
+    height: 350px;
+    width: 350px;
+}
+.photo1{
+    height: 400px;
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border: 4px solid darkgray;
+    position: absolute;
+    left: 150px;
+    top: 500px;
+}
+.photo2{
+    height: 400px;
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border: 4px solid darkgray;
+    position: absolute;
+    top: 500px;
+    left: 750px;
+}
+.photo3{
+    height: 400px;
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border: 4px solid darkgray;
+    position: absolute;
+    top: 500px;
+    left: 1300px;
+}
+.kishaqda{
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    left: 170px;
+    top: 950px;
+}
+.kishaqda h3{
+    text-align: center;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kishaqda p{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kishaqda button{
+    height: 40px;
+    width: 60px;
+    background-color: white;
+    border: 3px solid deeppink;
+    color: deeppink;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.tosuhaqda{
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    left: 780px;
+    top: 950px;
+}
+.tosuhaqda h3{
+    text-align: center;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tosuhaqda p{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tosuhaqda button{
+    height: 40px;
+    width: 60px;
+    background-color: white;
+    border: 3px solid deeppink;
+    color: deeppink;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.reishaqda{
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    left: 1330px;
+    top: 950px;
+}
+.reishaqda h3{
+    text-align: center;
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.reishaqda p{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.reishaqda button{
+    height: 40px;
+    width: 60px;
+    background-color: white;
+    border: 3px solid deeppink;
+    color: deeppink;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.container3{
+    height: 150px;
+    width: 100%;
+    background-color: whitesmoke;
+    padding-top: 40px;
+}
+.container3 h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container3 p{
+    text-align: center;
+    color: rgb(88, 88, 88);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container4 {
+    height: 150px;
+    width: 100%;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pic{
+    height: 70px;
+    width: 80px;
+    background-color: rgb(255, 0, 157);
+    color: whitesmoke;
+    padding-left: 30px;
+    padding-top: 40px;
+    font-size: 25px;
+}
+.container5 {
+    height: 350px;
+    width: 100%;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    width: 350px;
+    height: 200px;
+    border: 4px solid deeppink;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
